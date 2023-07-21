@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shiwangibhardwaj
-- 👀 I’m interested in python, c++ and java
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python, HTML, SQL, XML
+- 🌱 I’m currently learning DSA.
 - 📫 How to contact me: shiwangi.bhardwaj2003@gmail.com 
 
 <!---
