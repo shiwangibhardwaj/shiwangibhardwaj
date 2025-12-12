@@ -51,5 +51,5 @@ can optimize backend logic:
 I am always open to discussing system design, e-commerce tech, or the latest in Al.
 
 Get in Touch 📬
-LinkedIn: My LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/shiwangi-bhardwaj/
 Email: shiwangi.bhardwaj2003@gmail.com 
