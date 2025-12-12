@@ -1,4 +1,4 @@
-#Hi there, I'm Shiwangi Bhardwaj👋
+##Hi there, I'm Shiwangi Bhardwaj👋
 
 ### Application Engineer I Flipkart | Al & Python Enthusiast
 
@@ -8,7 +8,7 @@ I am a Software Engineer currently building high-scale e-commerce solutions at *
 
 *Current Role:* Application Engineer 1 at Flipkart.
 
-**Focus:* Building scalable backend systems, optimizing performance for high-traffic environments, and solving complex e-commerce engineering challenges.
+*Focus:* Building scalable backend systems, optimizing performance for high-traffic environments, and solving complex e-commerce engineering challenges.
 
 *Core Competency:* Transforming theoretical concepts into production-grade code.
 
