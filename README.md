@@ -1,44 +1,55 @@
-# Shiwangi Bhardwaj 
+#Hi there, I'm Shiwangi Bhardwaj👋
 
-### Welcome to My GitHub Profile 👋
+### Application Engineer I Flipkart | Al & Python Enthusiast
 
-How are you doing? I'm @shiwangibhardwaj, and I'm a student at the undergraduate level studying Computer Science and Engineering with a concentration on Artificial Intelligence. One of my favorite things to do is to experiment with new technology, investigate novel concepts, and work with others on intriguing initiatives.
+I am a Software Engineer currently building high-scale e-commerce solutions at *Flipkart*. My background lies in Computer Science with a specialized concentration in Artificial Intelligence. I bridge the gap between robust software engineering and intelligent, data-driven systems.
 
-### What I Do 💼
+### Professional Profile
 
-- **Python Development:** I use Python to build strong and scalable apps. Python is my favorite for web development and scripting.
+*Current Role:* Application Engineer 1 at Flipkart.
 
-- **Machine learning:** algorithms that turn data into actionable insights are my specialty. I like trying strategies to handle complex issues like classification, regression, and clustering.
+**Focus:* Building scalable backend systems, optimizing performance for high-traffic environments, and solving complex e-commerce engineering challenges.
 
-- **Deep learning:** Neural networks, cutting-edge architectures, and training models for image recognition, natural language processing, and more are my passions.
+*Core Competency:* Transforming theoretical concepts into production-grade code.
 
-- **Data Analysis and visualization:** AI relies on data analysis and visualization. I use pandas, matplotlib, and seaborn to analyze data, find trends, and visualize results.
+### Tech Stack & Tools
 
-### My Interests🌟
+*Languages:* Python, Java, SQL
 
-- **Machine Learning:** I love algorithms, data, and predictions. I like using new machine learning methods to solve real-world challenges.
+*Engineering:* Data Structures & Algorithms, Distributed Systems, Microservices
 
-- **Deep Learning:** I love studying neural networks and their ability to learn complex patterns. I enjoy testing deep learning architectures and pushing the limits.
+*AI/ML Stack* PyTorch, TensorFlow, Pandas, Scikit-learn (Specialized interest)
 
-- **Nature Language Processing (NLP):** I'm fascinated by human language and teaching machines to read and write. I appreciate sentiment analysis and language translation NLP tasks.
+*Tools:* Git, Docker, Kubernetes, CI/CD pipelines
 
-- **Computer vision:** It is fascinating in AI. To interpret visual data, I enjoy computer vision projects like picture categorization, object identification, and facial recognition.
+### What I Do
 
-- **Data science:** Discovering hidden patterns and insights is exciting. I enjoy learning from statistical methods, data visualization, and predictive modeling.
+#### E-Commerce Engineering
 
-### Get in Touch 📬
+I work on designing and maintaining resilient applications that power the Flipkart ecosystem. My focus is on writing clean, maintainable code that handles scale and complexity efficiently.
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/shiwangi-bhardwaj/)
-- **Email**: [shiwangi.bhardwaj2003@gmail.com ](mailto:shiwangi.bhardwaj2003@gmail.com )
+#### Al & Machine Learning Integration
 
+While my core role is engineering, I retain a deep passion for Al. I explore how Machine Learning
 
+can optimize backend logic:
 
+*NLP:* Leveraging language models for search relevance and sentiment analysis.
 
+*Computer Vision:* Understanding visual data for product categorization and object detection.
 
+*Data Analysis:* Using strong analytical skills to drive engineering decisions.
 
+### Technical Interests
 
+*System Design:* Architecting systems that are reliable and scalable.
 
-<!---
-shiwangibhardwaj/shiwangibhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Deep Learning:* Keeping up with state-of-the-art architectures in Neural Networks. *Automation:* Scripting and automating workflows to improve developer velocity.
+
+### Connect with Me
+
+I am always open to discussing system design, e-commerce tech, or the latest in Al.
+
+Get in Touch 📬
+LinkedIn: My LinkedIn Profile
+Email: shiwangi.bhardwaj2003@gmail.com 
